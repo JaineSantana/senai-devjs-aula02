@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+    Nome: Jaine Francisco Santana<br>
+    Profissão: Estágiaria Melhoria Contínua<br>
+    Formação: Ciência da Computação<br>
+    Hobbie: Jogar Vôlei
+</h1>
+<<<<<<< HEAD
+Alterado no repositório local
+=======
+    alterado no github  
+>>>>>>> 426b90d9257a372a07208d34ceadb446ef795107
+</body>
+</html>
